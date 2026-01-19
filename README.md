@@ -37,11 +37,10 @@ To ensure accuracy, the following preprocessing steps were performed:
 
 ### 1. Main Dashboard & KPIs
 The landing page provides a high-level summary of the job market landscape.
-![Main Dashboard Screenshot](screenshot_main.png)
+![Main Dashboard Screenshot](https://github.com/HafzaBatool-ML/Pakistan-Job-Market-Analysis/blob/main/Dash%20board%20Home%20page.jpeg)
 
 ### 2. Job Distribution by City
 Lahore, Karachi, and Islamabad represent the "Golden Triangle" of employment in Pakistan, holding the vast majority of opportunities.
-![City Distribution](screenshot_city.png)
 
 ### 3. Salary vs. Experience Correlation
 Data shows a clear upward trajectory in PKR as experience increases, with Senior roles commanding nearly 3x the salary of Entry-level positions.
@@ -49,7 +48,7 @@ Data shows a clear upward trajectory in PKR as experience increases, with Senior
 
 ### 4. Top Skills by Industry
 The dashboard dynamically filters skills based on the functional area (e.g., Python for IT, Negotiation for Sales).
-![Top Skills](screenshot_skills.png)
+
 
 ## Tech Stack & Methodology
 * **Language:** Python 3.x
